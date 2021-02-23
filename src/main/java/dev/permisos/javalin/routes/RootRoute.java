@@ -1,4 +1,4 @@
-package routes;
+package dev.permisos.javalin.routes;
 
 import dev.permisos.javalin.providers.CotizacionProvider;
 import io.javalin.http.Context;
